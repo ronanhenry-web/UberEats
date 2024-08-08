@@ -1,4 +1,4 @@
-# Projet Vue.js
+# Projet UberEats
 
 Faire un visuel existant UberEats (pas fini)
 
