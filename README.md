@@ -1,14 +1,14 @@
-# Projet UberEats
+# UberEats Project
 
-Faire un visuel existant UberEats (pas fini)
+Creating an existing UberEats visual (incomplete)
 
-## Démarrer
+## Getting Started
 
-Le projet a été créé sous IntelliJ, pour le démarrer suivre les étapes suivantes.
+The project was created using IntelliJ. To get it running, follow these steps :
 
-- Cloner le projet
+- Clone the project
 
-Dans la racine du projet faire :
+In the project root, run :
 ```bash
 npm i
 ```
@@ -17,6 +17,6 @@ npm i
 npm run serv
 ```
 
-## Sources & Outils
+## Sources & Tools
 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
